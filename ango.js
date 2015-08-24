@@ -1,4 +1,4 @@
-﻿/* ango.js */
+/* ango.js */
 
 var crypto = require('crypto');
 
